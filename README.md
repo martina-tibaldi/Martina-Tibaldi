@@ -6,7 +6,7 @@
  
 </head>
 <body>
-    <h1>Welcome to My Page!!!!</h1>
+    <h1>Welcome to My Page!</h1>
     <p>Hello, my name is <strong>Martina Tibaldi</strong>. I am an Energy Engineer
 🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. Below you can find my CV and links to my professional profiles.<CV 2024/p>
     
