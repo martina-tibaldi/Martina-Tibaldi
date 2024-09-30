@@ -13,12 +13,13 @@
 <a href="CV 2024-2.pdf" download>Click here to download my CV</a>
 
  <strong>Find Me Online</strong>
+<div class="social-links">
+        <a href="https://linkedin.com/in/martina-tibaldi" target="_blank">LinkedIn</a>
 
-        <a href="https://linkedin.com/in/martinatibaldi" target="_blank">LinkedIn</a>
+        <a href="mailto:your-email@example.com">Email Me</a>
     </div>
 </body>
 </html>
-
 <!--
 **martina-tibaldi/martina-tibaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
