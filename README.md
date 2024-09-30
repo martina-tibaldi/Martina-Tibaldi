@@ -10,15 +10,12 @@
 🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. Below you can find my CV and links to my professional profiles.<CV 2024/p>
     
 
-
-
 <a href="CV 2024-2.pdf" download>Click here to download my CV</a>
+
+ <strong>Find Me Online</strong>
     
-    <h2>Find Me Online</h2>
     <div class="links">
         <a href="https://linkedin.com/in/martinatibaldi" target="_blank">LinkedIn</a>
-        <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-        <a href="mailto:your-email@example.com">Email</a>
     </div>
 </body>
 </html>
