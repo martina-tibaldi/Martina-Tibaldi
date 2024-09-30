@@ -18,8 +18,7 @@
         <a href="https://linkedin.com/in/martina-tibaldi" target="_blank">LinkedIn</a>
     
    <a href="https://www.uu.se/kontakt-och-organisation/personal?query=N24-569" target="_blank">UniversityPage</a>
-
-        <a href="martina.tibaldi@angstrom.uu.se">Email Me</a>
+   <a href="martina.tibaldi@angstrom.uu.se">Email Me</a>
     </div>
 </body>
 </html>
