@@ -29,27 +29,7 @@ Currently, I am pursuing a PhD at <strong>Uppsala University</strong>, where my 
 <h2>Connect with Me</h2>
 <p>
     Feel free to reach out through my professional profiles:
-</p>
-<ul>
-    <li><a href="https://linkedin.com/in/your-linkedin-username" target="_blank">LinkedIn</a></li>
-    <li><a href="https://github.com/your-github-username" target="_blank">GitHub</a></li>
-    <li><a href="mailto:your-email@example.com">Email Me</a></li>
-</ul>
 
-
-
-
-original 
-
- <h1>Welcome to My Page!</h1>
-    <p>Hello, my name is <strong>Martina Tibaldi</strong>. I am an Energy Engineer
-        
-🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. Below you can find my CV and links to my professional profiles.<CV 2024/p>
-    
-
-<a href="CV 2024-2.pdf" download>Click here to download my CV</a>
-
- <strong>Find Me Online</strong>
 <div class="social-links">
         <a href="https://linkedin.com/in/martina-tibaldi" target="_blank">LinkedIn</a>
     
