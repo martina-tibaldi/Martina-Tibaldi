@@ -14,7 +14,7 @@
     <p>Here you can write a few sentences about yourself, your experience, and what you do.</p>
 
     <h2>Download My CV</h2>
-    <p><a href="CV 2024.pdf" download>Click here to download my CV</a></p>
+    <p><a href="CV 2024-2.pdf" download>Click here to download my CV</a></p>
     
     <h2>Find Me Online</h2>
     <div class="links">
