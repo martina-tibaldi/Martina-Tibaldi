@@ -11,8 +11,8 @@
     
 
 
-    <h2>Download My CV</h2>
-    <p><a href="CV 2024-2.pdf" download>Click here to download my CV</a></p>
+
+<a href="CV 2024-2.pdf" download>Click here to download my CV</a>
     
     <h2>Find Me Online</h2>
     <div class="links">
