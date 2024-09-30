@@ -13,8 +13,7 @@
 <a href="CV 2024-2.pdf" download>Click here to download my CV</a>
 
  <strong>Find Me Online</strong>
-    
-    <div class="links">
+
         <a href="https://linkedin.com/in/martinatibaldi" target="_blank">LinkedIn</a>
     </div>
 </body>
