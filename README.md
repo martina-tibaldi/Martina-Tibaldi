@@ -5,27 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Presentation Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        .links a {
-            display: block;
-            margin-bottom: 10px;
-            color: #2a7ae2;
-            text-decoration: none;
-        }
-        .links a:hover {
-            text-decoration: underline;
-        }
-    </style>
 </head>
 <body>
     <h1>Welcome to My Page</h1>
@@ -34,7 +13,7 @@ I am Martina Tibaldi
 I am an Energy Engineer
 🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. Below you can find my CV and links to my professional profiles.<CV 2024/p>
     
-    <h2>About Me</h2>
+    <h1>About Me</h1>
     <p>Here you can write a few sentences about yourself, your experience, and what you do.</p>
 
     <h2>Download My CV</h2>
