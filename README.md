@@ -41,7 +41,7 @@ I am an Energy Engineer
     
     <h2>Find Me Online</h2>
     <div class="links">
-        <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+        <a href="https://linkedin.com/in/martinatibaldi" target="_blank">LinkedIn</a>
         <a href="https://github.com/yourusername" target="_blank">GitHub</a>
         <a href="mailto:your-email@example.com">Email</a>
     </div>
