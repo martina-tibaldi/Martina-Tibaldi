@@ -1,6 +1,4 @@
-I am Martina Tibaldi
-I am an Energy Engineer
-🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. 
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -31,7 +29,10 @@ I am an Energy Engineer
 </head>
 <body>
     <h1>Welcome to My Page</h1>
-    <p>Hello, my name is <strong>Martina Tibaldi</strong>. I am a [your profession]. Below you can find my CV and links to my professional profiles.<CV 2024/p>
+    <p>Hello, my name is <strong>Martina Tibaldi</strong>. I am a [your profession]. 
+I am Martina Tibaldi
+I am an Energy Engineer
+🔭 I’m currently working as PhD at Uppsala University and my research is about Energy Communites, Microgrids and EV. Below you can find my CV and links to my professional profiles.<CV 2024/p>
     
     <h2>About Me</h2>
     <p>Here you can write a few sentences about yourself, your experience, and what you do.</p>
