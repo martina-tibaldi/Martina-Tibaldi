@@ -6,7 +6,10 @@
  
 </head>
 <body>
-   
+   <div style="background-color: #f0f8ff; border: 2px solid #00bfff; border-radius: 10px; padding: 20px; text-align: center;">
+    <h1 style="color: #000080;">Welcome to my page!</h1>
+    <p style="color: #4682b4;">I'm glad you're here! 🚀</p>
+</div>
   <h1>Welcome to My Page!</h1>
 
 <p>
