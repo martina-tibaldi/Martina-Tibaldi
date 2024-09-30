@@ -10,7 +10,9 @@
   <h1>Welcome to My Page!</h1>
 
 <p>
-    Hello! My name is <strong>Martina Tibaldi</strong>, and I am passionate about advancing the field of energy engineering. Currently, I am pursuing a PhD at <strong>Uppsala University</strong>, where my research focuses on <em>Energy Communities, Microgrids, and Electric Vehicles (EVs)</em>. I believe that electrification is vital for a successful transition to a sustainable, fossil-free society. However, capacity bottlenecks in the electric grid threaten to slow down this transition. My work aims to contribute to the development of smart, safe, and resilient energy communities, particularly by creating a framework for effective microgrid management.
+    Hello! My name is <strong>Martina Tibaldi</strong>, and I am an energy engineering. 
+    
+    Currently, I am pursuing a PhD at <strong>Uppsala University</strong>, where my research focuses on <em>Energy Communities, Microgrids, and Electric Vehicles (EVs)</em>. I believe that electrification is vital for a successful transition to a sustainable, fossil-free society. However, capacity bottlenecks in the electric grid threaten to slow down this transition. My work aims to contribute to the development of smart, safe, and resilient energy communities, particularly by creating a framework for effective microgrid management.
 </p>
 
 <h2>Current Project Overview</h2>
