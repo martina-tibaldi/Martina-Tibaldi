@@ -16,7 +16,7 @@
 <div class="social-links">
         <a href="https://linkedin.com/in/martina-tibaldi" target="_blank">LinkedIn</a>
 
-        <a href="mailto:your-email@example.com">Email Me</a>
+        <a href="mailto:martina.tibaldi@angstrom.uu.se">Email Me</a>
     </div>
 </body>
 </html>
